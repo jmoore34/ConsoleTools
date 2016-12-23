@@ -1,0 +1,5 @@
+C:\Users\Jonathan\Google Drive\Programming\C#\ConsoleChoiceMenu\ConsoleChoiceMenu\bin\Debug\ConsoleChoiceMenu.dll
+C:\Users\Jonathan\Google Drive\Programming\C#\ConsoleChoiceMenu\ConsoleChoiceMenu\bin\Debug\ConsoleChoiceMenu.pdb
+C:\Users\Jonathan\Google Drive\Programming\C#\ConsoleChoiceMenu\ConsoleChoiceMenu\obj\Debug\ConsoleChoiceMenu.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Google Drive\Programming\C#\ConsoleChoiceMenu\ConsoleChoiceMenu\obj\Debug\ConsoleChoiceMenu.dll
+C:\Users\Jonathan\Google Drive\Programming\C#\ConsoleChoiceMenu\ConsoleChoiceMenu\obj\Debug\ConsoleChoiceMenu.pdb
